@@ -1,0 +1,17 @@
+{
+  "name": "PérinatalitéQuest",
+  "short_name": "PérinatalitéQuest",
+  "description": "Révision gamifiée des soins à la mère et au nouveau-né (compétences 27 et 28, DEP 5325).",
+  "lang": "fr-CA",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c2126",
+  "theme_color": "#B32A63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
