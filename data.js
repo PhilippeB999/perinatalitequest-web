@@ -1110,36 +1110,36 @@ const LEVELS = [
    correspondent aux avatarStage de LEVELS. */
 const AVATAR_CHARACTERS = [
  {
-  "id": "dragon",
-  "name_fr": "Dragon",
-  "name_en": "Dragon",
-  "title_fr": "Le Sage",
-  "title_en": "The Sage",
-  "stages": ["🥚","🥚","🦎","🦎","🐲","🐲","🐉","🐉","🐉","🐉","🐉","🐉"]
+  "id": "cygne",
+  "name_fr": "Cygne",
+  "name_en": "Swan",
+  "title_fr": "La Protectrice",
+  "title_en": "The Protector",
+  "stages": ["🥚","🥚","🐣","🐣","🐥","🐥","🦢","🦢","🦢","🦢","🦢","🦢"]
  },
  {
-  "id": "licorne",
-  "name_fr": "Licorne",
-  "name_en": "Unicorn",
-  "title_fr": "La Guérisseuse",
-  "title_en": "The Healer",
-  "stages": ["🥚","🥚","🐴","🐴","🦄","🦄","🦄","🦄","🦄","🦄","🦄","🦄"]
+  "id": "colombe",
+  "name_fr": "Colombe",
+  "name_en": "Dove",
+  "title_fr": "La Veilleuse",
+  "title_en": "The Watcher",
+  "stages": ["🥚","🥚","🐣","🐣","🐣","🐣","🕊️","🕊️","🕊️","🕊️","🕊️","🕊️"]
  },
  {
-  "id": "phenix",
-  "name_fr": "Phénix",
-  "name_en": "Phoenix",
-  "title_fr": "Le Résilient",
-  "title_en": "The Resilient One",
-  "stages": ["🥚","🥚","🐣","🐣","🐦","🐦","🦅","🦅","🦅","🦅","🦅","🦅"]
+  "id": "biche",
+  "name_fr": "Biche",
+  "name_en": "Doe",
+  "title_fr": "La Gracieuse",
+  "title_en": "The Graceful One",
+  "stages": ["🥚","🥚","🐐","🐐","🦌","🦌","🦌","🦌","🦌","🦌","🦌","🦌"]
  },
  {
-  "id": "griffon",
-  "name_fr": "Griffon",
-  "name_en": "Griffin",
-  "title_fr": "Le Courageux",
-  "title_en": "The Brave One",
-  "stages": ["🥚","🥚","🐱","🐱","🦁","🦁","🦁","🦁","🦁","🦁","🦁","🦁"]
+  "id": "phoqueperi",
+  "name_fr": "Phoque",
+  "name_en": "Seal",
+  "title_fr": "La Tendre",
+  "title_en": "The Tender One",
+  "stages": ["🥚","🥚","🦭","🦭","🦭","🦭","🦭","🦭","🦭","🦭","🦭","🦭"]
  }
 ];
 
